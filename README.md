@@ -56,8 +56,8 @@ Cuento con un perfil híbrido enfocado en **prácticas DevOps**, lo que me permi
 
 ## 📈 Proyectos Destacados
 
-* 📂 **[Automatización de Convocatorias](https://github.com):** Sistema empresarial Fullstack desarrollado con Java 17, Spring Boot y React. Cuenta con arquitectura desacoplada, despliegue automatizado con Docker Compose y observabilidad nativa usando Spring Actuator, Prometheus y Grafana.
-* 📂 **[Resilient Feature Flag Manager](https://github.com):** Implementación avanzada de gestión de banderas de funcionalidad optimizada con caché distribuida en Redis para asegurar alta disponibilidad y baja latencia en entornos productivos.
+* 📂 **[Automatización de Convocatorias](https://github.com/raulrodriguezmesia-blip/automatizacion-convocatorias):** Sistema empresarial Fullstack desarrollado con Java 17, Spring Boot y React. Cuenta con arquitectura desacoplada, despliegue automatizado con Docker Compose y observabilidad nativa usando Spring Actuator, Prometheus y Grafana.
+* 📂 **[Resilient Feature Flag Manager](https://github.com/raulrodriguezmesia-blip/springboot-feature-flag):** Implementación avanzada de gestión de banderas de funcionalidad optimizada con caché distribuida en Redis para asegurar alta disponibilidad y baja latencia en entornos productivos.
 
 ---
 

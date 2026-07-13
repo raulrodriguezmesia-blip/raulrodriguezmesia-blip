@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/images/banner.png" alt="Raúl Rodríguez Mesia — Backend & DevOps Engineer" width="100%" />
+</p>
+
 # 🚀 Raúl Rodriguez Mesia
 
 **Backend/DevOps Engineer** | Java & Spring Boot | AWS | Docker | Terraform  

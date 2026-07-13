@@ -2,15 +2,13 @@
 ### Java Backend & DevOps Engineer
 
 <p align="left">
-    💼 <b><a href="https://www.linkedin.com/in/raul-rodriguez-mesia/" target="_blank" rel="noopener noreferrer">LinkedIn Profesional</a></b>
-    <br><br>
-    🌐 <b><a href="https://raulrodriguezmesia-blip.github.io/" target="_blank" rel="noopener noreferrer">Portafolio Interactivo (GitHub Pages)</a></b>
-    <br><br>
-    ✉️ <b><a href="https://raulrodriguezmesia@gmail.com">Contactar por Correo Electrónico</a></b>
+    💼 <a href="https://www.linkedin.com/in/raul-rodriguez-mesia/" target="_blank" rel="noopener noreferrer">LinkedIn Profesional</a>
+    <br>
+    🌐 <a href="https://raulrodriguezmesia-blip.github.io/" target="_blank" rel="noopener noreferrer">Portafolio Interactivo (GitHub Pages)</a>
+    <br>
+    ✉️ <a href="mailto:raulrodriguezmesia@gmail.com">Contactar por Correo Electrónico</a>
 </p>
 
-
----
 
 ## 🚀 Sobre Mí
 

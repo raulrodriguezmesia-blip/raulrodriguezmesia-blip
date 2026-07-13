@@ -1,58 +1,36 @@
-# ¡Hola! Soy Raúl Rodríguez Mesía 👋
-### Java Backend & DevOps Engineer
+# 🚀 Raúl Rodriguez Mesia
 
+**Backend/DevOps Engineer** | Java & Spring Boot | AWS | Docker | Terraform  
 
-
-[**💼 LinkedIn Profesional**](https://www.linkedin.com/in/raul-rodriguez-mesia/) &nbsp; | &nbsp;
-[**🌐 Portafolio Interactivo**](https://raulrodriguezmesia-blip.github.io/) &nbsp; | &nbsp;
-[**✉️ Contactar por Correo**](mailto:raulrodriguezmesia@gmail.com)
-
-
-## 🚀 Sobre Mí
-
-Ingeniero en Informática con **más de 5 años de experiencia** construyendo software empresarial y arquitecturas escalables. Me especializo en el ecosistema **Java y Spring Boot**, diseñando APIs REST de alto rendimiento y microservicios robustos basados en código limpio (Clean Code) y principios SOLID. 
-
-Cuento con un perfil híbrido enfocado en **prácticas DevOps**, lo que me permite no solo desarrollar la lógica de negocio, sino también automatizar su ciclo de vida mediante pipelines de CI/CD, contenedorización con Docker y monitoreo en producción.
+🌍 Desde Perú → CDMX → España (próximamente)  
+🔗 [Portafolio Web](https://raulrodriguezmesia-blip.github.io) | [LinkedIn](https://linkedin.com/in/raul-rodriguez-mesia-bb8178149)
 
 ---
 
-## 🌍 Disponibilidad Internacional & Modalidad
-
-* **Modalidad de Trabajo:** Remoto Internacional / Contractor Independiente.
-* **Facturación:** Emisión inmediata de Recibos por Honorarios Electrónicos (Perú - Exportación de servicios sin impuestos añadidos para el cliente).
-* **Zona Horaria y Flexibilidad:** Ubicado en Perú (GMT-5). Cuento con **total disponibilidad horaria para madrugar y sincronizar mi jornada laboral con el horario de Madrid, España (CET/CEST)**, asegurando de 4 a 5 horas de coincidencia diaria en tiempo real con el equipo técnico.
+## ⚡ Skills & Tools
+Java • Spring Boot • AWS • Terraform • Docker • GitHub Actions • Jenkins • Grafana • Prometheus • Linux
 
 ---
 
-## 🛠️ Stack Tecnológico
-
-### 🔹 Backend & Frameworks
-![](https://shields.io) 
-![](https://shields.io) 
-![](https://shields.io) 
-![](https://shields.io) 
-![](https://shields.io)
-
-### 🔹 DevOps & Infraestructura
-![](https://shields.io) 
-![](https://shields.io) 
-![](https://shields.io) 
-![](https://shields.io)
-
-### 🔹 Observabilidad & Calidad
-![](https://shields.io) 
-![](https://shields.io) 
-![](https://shields.io) 
-![](https://shields.io)
-
-### 🔹 Bases de Datos & Herramientas
-![](https://shields.io) 
-![](https://shields.io) 
-![](https://shields.io) 
-![](https://shields.io) 
-![](https://shields.io)
+## 📊 Impacto
+- 🚀 Mejora de disponibilidad de sistemas en **+30%** con observabilidad avanzada.  
+- ⚡ Reducción de latencia en **200ms** aplicando caching distribuido.  
+- 🔒 Implementación de pipelines CI/CD con **Shift-Left Security**.
 
 ---
+
+## 🎯 Certificaciones en progreso
+![AWS Solutions Architect](https://progress-bar.dev/20/?title=AWS+SA)
+![Oracle Java SE 17](https://progress-bar.dev/40/?title=Java+SE+17)
+![CKA](https://progress-bar.dev/0/?title=CKA)
+
+---
+
+## 🔥 Lo que estoy construyendo ahora
+- Portafolio PWA con i18n + Service Worker  
+- Optimización de costos en AWS con MLflow  
+- Arquitectura hexagonal en proyectos Spring Boot
+
 
 ## 📈 Proyectos Destacados
 

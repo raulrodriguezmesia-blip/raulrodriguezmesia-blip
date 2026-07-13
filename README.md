@@ -24,11 +24,14 @@ Java • Spring Boot • AWS • Terraform • Docker • GitHub Actions • Jen
 ---
 
 ## 🎯 Certificaciones en progreso
-![AWS Solutions Architect](https://progress-bar.dev/20/?title=AWS+SA)
-![Oracle Java SE 17](https://progress-bar.dev/40/?title=Java+SE+17)
-![CKA](https://progress-bar.dev/0/?title=CKA)
-![AWS DevOps Pro](https://progress-bar.dev/0/?title=AWS+DevOps+Pro)
-![Google Cloud Architect](https://progress-bar.dev/0/?title=GCP+Architect)
+
+<p align="center">
+  <img src="docs/certs/aws-sa.png" alt="AWS Solutions Architect" width="120"/>
+  <img src="docs/certs/oracle-java.png" alt="Oracle Java SE 17" width="120"/>
+  <img src="docs/certs/cka.png" alt="Certified Kubernetes Administrator" width="120"/>
+  <img src="docs/certs/aws-devops.png" alt="AWS DevOps Pro" width="120"/>
+  <img src="docs/certs/gcp-architect.png" alt="Google Cloud Architect" width="120"/>
+</p>
 
 ---
 

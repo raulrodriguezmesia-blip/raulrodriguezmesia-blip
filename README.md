@@ -5,10 +5,10 @@
   <a href="https://www.linkedin.com/in/raul-rodriguez-mesia/" target="_blank">
     <img src="https://shields.io" alt="LinkedIn">
   </a>
-  <a href="https://github.io" target="_blank">
+  <a href="https: //raulrodriguezmesia-blip.github.io/" target="_blank">
     <img src="https://shields.io" alt="Portfolio">
   </a>
-  <a href="mailto:raulrodriguezmesia@gmail.com">
+  <a href="https: //raulrodriguezmesia@gmail.com">
     <img src="https://shields.io" alt="Email">
   </a>
 </p>

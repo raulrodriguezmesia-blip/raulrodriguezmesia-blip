@@ -2,18 +2,19 @@
 ### Java Backend & DevOps Engineer
 
 <p align="left">
-  <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://jsdelivr.net" alt="LinkedIn" width="24" height="24" style="vertical-align: middle; margin-right: 15px;">
+  <a href="https://www.linkedin.com/in/raul-rodriguez-mesia/" target="_blank" rel="noopener noreferrer">
+    <img src="https://githubassets.com" alt="LinkedIn" width="24" height="24" style="margin-right: 15px;">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.io" target="_blank" rel="noopener noreferrer">
-    <img src="https://jsdelivr.net" alt="Portfolio" width="24" height="24" style="vertical-align: middle; margin-right: 15px;">
+    <img src="https://raulrodriguezmesia-blip.github.io/" alt="Portfolio" width="24" height="24" style="margin-right: 15px;">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:raulrodriguezmesia@gmail.com">
-    <img src="https://jsdelivr.net" alt="Email" width="24" height="24" style="vertical-align: middle;">
+    <img src="https://githubassets.com" alt="Email" width="24" height="24/">
   </a>
 </p>
+
 
 
 ## 🚀 Sobre Mí

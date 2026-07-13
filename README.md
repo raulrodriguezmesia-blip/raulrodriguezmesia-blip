@@ -1,7 +1,13 @@
 # ¡Hola! Soy Raúl Rodríguez Mesía 👋
 ### Java Backend & DevOps Engineer
 
-<a href="https://linkedin.com" target="_blank" rel="noopener noreferrer"><img src="https://shields.io" alt="LinkedIn"></a> <a href="https://github.io" target="_blank" rel="noopener noreferrer"><img src="https://shields.io" alt="Portfolio"></a> <a href="mailto:raulrodriguezmesia@gmail.com"><img src="https://shields.io" alt="Email"></a>
+<p align="left">
+    💼 <b><a href="https://www.linkedin.com/in/raul-rodriguez-mesia/" target="_blank" rel="noopener noreferrer">LinkedIn Profesional</a></b>
+    <br><br>
+    🌐 <b><a href="https://raulrodriguezmesia-blip.github.io/" target="_blank" rel="noopener noreferrer">Portafolio Interactivo (GitHub Pages)</a></b>
+    <br><br>
+    ✉️ <b><a href="https://raulrodriguezmesia@gmail.com">Contactar por Correo Electrónico</a></b>
+</p>
 
 
 ---

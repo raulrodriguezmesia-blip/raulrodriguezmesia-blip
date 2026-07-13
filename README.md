@@ -23,13 +23,30 @@ Java • Spring Boot • AWS • Terraform • Docker • GitHub Actions • Jen
 ![AWS Solutions Architect](https://progress-bar.dev/20/?title=AWS+SA)
 ![Oracle Java SE 17](https://progress-bar.dev/40/?title=Java+SE+17)
 ![CKA](https://progress-bar.dev/0/?title=CKA)
+![AWS DevOps Pro](https://progress-bar.dev/0/?title=AWS+DevOps+Pro)
+![Google Cloud Architect](https://progress-bar.dev/0/?title=GCP+Architect)
+
+---
+
+## 📂 Proyectos destacados
+- [springboot-feature-flag](link) — Feature toggles con Spring Boot  
+- [automatizacion-convocatorias](link) — Automatización cloud-native  
+- [campaign-studio](link) — Aplicación completa de campañas  
 
 ---
 
 ## 🔥 Lo que estoy construyendo ahora
 - Portafolio PWA con i18n + Service Worker  
 - Optimización de costos en AWS con MLflow  
-- Arquitectura hexagonal en proyectos Spring Boot
+- Arquitectura hexagonal en proyectos Spring Boot  
+
+---
+
+## 📈 Roadmap público
+- [ ] Completar 5 certificaciones  
+- [ ] Migrar proyectos a arquitectura hexagonal  
+- [ ] Optimizar Lighthouse (Perf >90, Acc >95, SEO >95)  
+
 
 
 ## 📈 Proyectos Destacados

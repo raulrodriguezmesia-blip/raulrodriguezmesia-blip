@@ -2,9 +2,9 @@
 ### Java Backend & DevOps Engineer
 
 <p align="left">
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"></a>
-  <a href="https://github.io"><img src="https://shields.io" alt="Portfolio"></a>
-  <a href="mailto:raulrodriguezmesia@gmail.com"><img src="https://shields.io" alt="Email"></a>
+  <a href="https://linkedin.com"><img src="https://www.linkedin.com/in/raul-rodriguez-mesia/" alt="LinkedIn"></a>
+  <a href="https://github.io"><img src="https://raulrodriguezmesia-blip.github.io/" alt="Portfolio"></a>
+  <a href="mailto:raulrodriguezmesia@gmail.com"><img src="raulrodriguezmesia@gmail.com" alt="Email"></a>
 </p>
 
 ---

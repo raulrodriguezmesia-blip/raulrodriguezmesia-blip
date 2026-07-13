@@ -32,6 +32,12 @@ Java • Spring Boot • AWS • Terraform • Docker • GitHub Actions • Jen
   <img src="docs/certs/aws-devops.png" alt="AWS DevOps Pro" width="120"/>
   <img src="docs/certs/gcp-architect.png" alt="Google Cloud Architect" width="120"/>
 </p>
+---
+- AWS Solutions Architect — ⏳ En curso (2026‑09)
+- Oracle Java SE 17 — ⏳ En curso (2026‑10)
+- CKA — ⏳ En curso (2026‑11)
+- AWS DevOps Pro — ⏳ En curso (2026‑12)
+- Google Cloud Architect — ⏳ En curso (2027‑01)
 
 ---
 

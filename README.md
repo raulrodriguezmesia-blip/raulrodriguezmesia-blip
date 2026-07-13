@@ -2,7 +2,7 @@
   <img src="docs/images/banner.png" alt="Raúl Rodríguez Mesia — Backend & DevOps Engineer" width="100%" />
 </p>
 
-# 🚀 Raúl Rodriguez Mesia
+# 🚀 Raúl Rodríguez Mesia
 
 **Backend/DevOps Engineer** | Java & Spring Boot | AWS | Docker | Terraform  
 
@@ -33,9 +33,9 @@ Java • Spring Boot • AWS • Terraform • Docker • GitHub Actions • Jen
 ---
 
 ## 📂 Proyectos destacados
-- [springboot-feature-flag](link) — Feature toggles con Spring Boot  
-- [automatizacion-convocatorias](link) — Automatización cloud-native  
-- [campaign-studio](link) — Aplicación completa de campañas  
+- [springboot-feature-flag](https://github.com/raulrodriguezmesia/springboot-feature-flag) — Feature toggles con Spring Boot  
+- [automatizacion-convocatorias](https://github.com/raulrodriguezmesia/automatizacion-convocatorias) — Automatización cloud-native  
+- [campaign-studio](https://github.com/raulrodriguezmesia/campaign-studio) — Aplicación completa de campañas  
 
 ---
 
@@ -50,8 +50,6 @@ Java • Spring Boot • AWS • Terraform • Docker • GitHub Actions • Jen
 - [ ] Completar 5 certificaciones  
 - [ ] Migrar proyectos a arquitectura hexagonal  
 - [ ] Optimizar Lighthouse (Perf >90, Acc >95, SEO >95)  
-
-
 
 ## 📈 Proyectos Destacados
 

@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/raulrodriguezmesia-blip">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:raulrodriguezmesia@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="Email" />
@@ -39,12 +39,10 @@
 
 ## 🏆 Hackatones & Competiciones
 
-- 🤖 **micro1 MCP Server Hackathon — `micro1-financial-eval`**
-  - Desarrollo de un arnés de evaluación determinista y adversaria para agentes de IA en inteligencia financiera y bancaria. Implementado con servidor FastMCP, Docker y Python, integrando un motor de mutación de caos, guardrails $O(1)$ de cero alucinación y trazabilidad criptográfica (`ExecutionProof`).
 - 🏦 **Agentic Banking Hackathon (Airwallex)**
   - *Build the future of banking on Airwallex’s APIs:* Diseño y desarrollo de agentes financieros autónomos capaces de ejecutar operaciones bancarias, transferencias internacionales y gestión de tesorería conectando LLMs a las APIs globales de Airwallex con guardrails deterministas.
-- ⚡ **micro1 Frontier Engineering Challenge**
-  - Construcción de prototipos *cloud-native* y suites de pruebas deterministas para agentes de codificación e infraestructura de IA.
+- ⚡ **micro1 MCP Server Hackathon & Frontier Engineering Challenge**
+  - Construcción de servidores FastMCP de alto rendimiento y arneses de evaluación deterministas para agentes de codificación e inteligencia financiera con trazabilidad criptográfica (`ExecutionProof`).
 - 🎯 **All Day AI Event & Benchmarks**
   - Demostraciones técnicas de micro-benchmarks y suites de pruebas para servidores MCP.
 

@@ -1,15 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raulrodriguezmesia-blip/raulrodriguezmesia-blip.github.io/main/images/banner.png" alt="Banner profesional" width="100%" />
-</p>
-
-<h1 align="center">🚀 Raúl Rodríguez Mesía</h1>
-<h3 align="center">Backend & DevOps Engineer | Java & Spring Boot | AWS | Docker | Terraform</h3>
-
-<p align="center">
-  📍 Perú (GMT-5) • 🌐 Disponible para trabajo remoto internacional • 📅 Flexibilidad horaria para sincronizar con CET/CEST  
-</p>
-
-<p align="center">
   <a href="https://raulrodriguezmesia-blip.github.io">
     <img src="https://img.shields.io/badge/Portafolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio" />
   </a>
@@ -50,16 +39,18 @@
 
 ## 🏆 Hackatones & Competiciones
 
-- ⚡ **micro1 Frontier Engineering Challenge (2026)**
-  - Desarrollo de prototipo *cloud-native* integrando microservicios backend y componentes de evaluación determinista con agentes de IA.
-- 🎯 **All Day AI Event & Benchmarks (2026)**
+- 🏦 **Agentic Banking Hackathon (Airwallex)**
+  - *Build the future of banking on Airwallex’s APIs:* Diseño y desarrollo de agentes financieros autónomos capaces de ejecutar operaciones bancarias, transferencias internacionales y gestión de tesorería conectando LLMs a las APIs globales de Airwallex con guardrails deterministas.
+- ⚡ **micro1 MCP Server Hackathon & Frontier Engineering Challenge**
+  - Construcción de servidores FastMCP de alto rendimiento y arneses de evaluación deterministas para agentes de codificación e inteligencia financiera con trazabilidad criptográfica (`ExecutionProof`).
+- 🎯 **All Day AI Event & Benchmarks**
   - Demostraciones técnicas de micro-benchmarks y suites de pruebas para servidores MCP.
 
 ---
 
 ## 🎯 Certificaciones & Programas
 
-- 🏛️ **McKinsey Forward Program** *(En curso — Skills Level | Oct – Dic 2026)*
+- 🏛️ **McKinsey Forward Program** *(En curso — Skills Level)*
 - ☁️ **Azure Solutions Architect Expert** *(Preparación para Microsoft Certification Week)*
 - 🤖 **micro1 Verified AI Trainer & Generalist**
 
@@ -84,7 +75,7 @@
 
 ## 🔥 Lo que estoy construyendo ahora
 
-- **Servidores MCP Deterministas:** Integración de Model Context Protocol (MCP) para evaluación de agentes de IA y modelos financieros.  
+- **Servidores MCP Deterministas:** Integración de Model Context Protocol (MCP) para evaluación de agentes de IA y modelos bancarios/financieros.  
 - **Portafolio PWA con i18n + Service Worker** y optimización Lighthouse (`Perf >90`, `Acc >95`, `SEO >95`).  
 - **Arquitectura Hexagonal en proyectos Spring Boot:** Patrones de resiliencia y diseño desacoplado.  
 

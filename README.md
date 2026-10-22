@@ -1,3 +1,4 @@
+ <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 <p align="center">
   <a href="https://raulrodriguezmesia-blip.github.io">
     <img src="https://img.shields.io/badge/Portafolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio" />

@@ -1,4 +1,7 @@
-
+<p align="center">
+  <img src="docs/images/banner.png" alt="Raúl Rodríguez Mesia — Backend & DevOps Engineer" width="100%" />
+  <img src="docs/images/banner.png" alt="Banner profesional" width="100%" />
+</p>
 <p align="center">
   <a href="https://raulrodriguezmesia-blip.github.io">
     <img src="https://img.shields.io/badge/Portafolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio" />

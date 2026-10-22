@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./docs/images/banner.png" alt="Banner profesional" width="100%" />
+  <img src="https://raw.githubusercontent.com/raulrodriguezmesia-blip/raulrodriguezmesia-blip/main/docs/images/banner.png" alt="Banner profesional" width="100%" />
 </p>
 <p align="center">
   <a href="https://raulrodriguezmesia-blip.github.io">

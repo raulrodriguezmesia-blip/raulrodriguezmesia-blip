@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/raulrodriguezmesia-blip">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:raulrodriguezmesia@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="Email" />
@@ -29,53 +29,86 @@
 
 ---
 
-## 🎯 Certificaciones en progreso
+# 🚀 Raúl Rodríguez Mesia
+### Senior AI & Java Backend Engineer | MCP Architect | Cloud & DevOps
+📍 **Tumbes, Perú (GMT-5)** • 🌐 **Disponible para trabajo remoto internacional** • 📅 **Sincronización fluida:** CET/CEST & EST/PST
 
+---
 
-</p>
+## 💼 Experiencia & Contratos Destacados
+
+- 🤖 **micro1 — AI Trainer & Agent Evaluation Specialist (Contractor)**
+  - Evaluación y calibración de modelos fundacionales (LLMs) y agentes autónomos de codificación.
+  - Diseño de arneses de evaluación, benchmarks deterministas y pruebas adversarias para modelos en dominios especializados.
+  - Auditoría de ejecución de herramientas mediante Model Context Protocol (MCP) y análisis de fallos en agentes.
+
+- 🧠 **Alignerr / Data Annotation Specialist — AI Data & Technical Annotator**
+  - Calibración de datos de entrenamiento técnico para modelos de IA avanzados y RLHF (Reinforcement Learning from Human Feedback).
+  - Verificación de razonamiento lógico, análisis de código en Java/Python e identificación de alucinaciones en modelos de lenguaje.
+
+---
+
+## 🏆 Hackatones & Competiciones
+
+- ⚡ **micro1 Frontier Engineering Challenge (2026)**
+  - Desarrollo de prototipo *cloud-native* integrando microservicios backend y componentes de evaluación determinista con agentes de IA.
+- 🎯 **All Day AI Event & Benchmarks (2026)**
+  - Demostraciones técnicas de micro-benchmarks y suites de pruebas para servidores MCP.
+
+---
+
+## 🎯 Certificaciones & Programas
+
+- 🏛️ **McKinsey Forward Program** *(En curso — Skills Level | Oct – Dic 2026)*
+- ☁️ **Azure Solutions Architect Expert** *(Preparación para Microsoft Certification Week)*
+- 🤖 **micro1 Verified AI Trainer & Generalist**
 
 ---
 
 ## ⚡ Skills & Tools
 
-**Java • Spring Boot • AWS • Terraform • Docker • GitHub Actions • Jenkins • Grafana • Prometheus • Linux**
+**Languages & Core:** Java 17+, Python 3.11+, SQL, Bash  
+**Frameworks & AI:** Spring Boot 3, FastMCP, FastAPI, LangChain, Pydantic, JUnit 5, Pytest  
+**Cloud & DevOps:** Azure (AKS, ACR), AWS, Docker, Kubernetes, Terraform, GitHub Actions, CI/CD, Linux  
+**Observability & Quality:** Prometheus, Grafana, $O(1)$ Guardrails, Chaos Mutation Engine
 
 ---
 
 ## 📊 Impacto
 
-- 🚀 Mejora de disponibilidad de sistemas en **+30%** con observabilidad avanzada.  
-- ⚡ Reducción de latencia en **200ms** aplicando caching distribuido.  
-- 🔒 Implementación de pipelines CI/CD con **Shift-Left Security**.  
+- 🚀 **Mejora de disponibilidad de sistemas** en **+30%** con observabilidad avanzada.  
+- ⚡ **Reducción de latencia** en **200ms** aplicando caching distribuido y algoritmos optimizados a $O(1)$.  
+- 🔒 **Implementación de pipelines CI/CD** con **Shift-Left Security** y trazabilidad criptográfica (`ExecutionProof`).  
 
 ---
 
 ## 🔥 Lo que estoy construyendo ahora
 
-- Portafolio PWA con i18n + Service Worker  
-- Optimización de costos en AWS con MLflow  
-- Arquitectura hexagonal en proyectos Spring Boot  
+- **Servidores MCP Deterministas:** Integración de Model Context Protocol (MCP) para evaluación de agentes de IA y modelos financieros.  
+- **Portafolio PWA con i18n + Service Worker** y optimización Lighthouse (`Perf >90`, `Acc >95`, `SEO >95`).  
+- **Arquitectura Hexagonal en proyectos Spring Boot:** Patrones de resiliencia y diseño desacoplado.  
 
 ---
 
 ## 📈 Roadmap público
 
-- [ ] Completar 5 certificaciones  
-- [ ] Migrar proyectos a arquitectura hexagonal  
-- [ ] Optimizar Lighthouse (Perf >90, Acc >95, SEO >95)  
+- [ ] Completar certificación **Azure Solutions Architect Expert**  
+- [ ] Culminar el programa **McKinsey Forward** (Skills Level)  
+- [ ] Migrar proyectos clave a **arquitectura hexagonal**  
+- [ ] Optimizar métricas Lighthouse (`Perf >90`, `Acc >95`, `SEO >95`)  
 
 ---
 
 ## 📂 Proyectos destacados
 
-* 📂 **[Automatización de Convocatorias](https://github.com/raulrodriguezmesia-blip/automatizacion-convocatorias):** Sistema empresarial Fullstack desarrollado con Java 17, Spring Boot y React. Cuenta con arquitectura desacoplada, despliegue automatizado con Docker Compose y observabilidad nativa usando Spring Actuator, Prometheus y Grafana.
+- 📂 **[micro1-financial-eval](https://github.com/raulrodriguezmesia-blip/micro1-financial-eval):** Arnés de evaluación determinista y adversaria para agentes de IA financieros. Desarrollado con FastMCP, Docker y Python. Cuenta con motor de mutación de caos, guardrails $O(1)$ de cero alucinación y verificación en CI/CD mediante GitHub Actions con cobertura $\ge 90\%$.
 
-* 📂 **[Resilient Feature Flag Manager](https://github.com/raulrodriguezmesia-blip/springboot-feature-flag):** Implementación avanzada de gestión de banderas de funcionalidad optimizada con caché distribuida en Redis para asegurar alta disponibilidad y baja latencia en entornos productivos.
+- 📂 **[mcp-java-benchmark](https://github.com/raulrodriguezmesia-blip/mcp-java-benchmark):** Benchmark de alto rendimiento para servidores MCP, optimizando la complejidad de filtrado de duplicados e implementando controles de concurrencia thread-safe.
+
+- 📂 **[Automatización de Convocatorias](https://github.com/raulrodriguezmesia-blip/automatizacion-convocatorias):** Sistema empresarial Fullstack desarrollado con Java 17, Spring Boot y React. Cuenta con arquitectura desacoplada, despliegue automatizado con Docker Compose y observabilidad nativa usando Spring Actuator, Prometheus y Grafana.
+
+- 📂 **[Resilient Feature Flag Manager](https://github.com/raulrodriguezmesia-blip/springboot-feature-flag):** Implementación avanzada de gestión de banderas de funcionalidad optimizada con caché distribuida en Redis para asegurar alta disponibilidad y baja latencia en entornos productivos.
 
 ---
 
-¡Haz los cambios que consideres necesarios en tu perfil y repositorios! Avísame cuando los tengas listos pasándome el enlace o los textos modificados, y procederé a hacerte la **auditoría técnica final y el informe de preparación para el mercado español**. 
-
----
-
-*Última actualización: julio 2026*
+*Última actualización: octubre 2026*
